@@ -1,7 +1,7 @@
-random-player-server
+donats-server
 ---
 
-[Donats](https://github.com/specialgee/donats) Back-End
+[Donats](https://github.com/specialgee/donats) server-side API
 
 ### Usage
 
