@@ -1,7 +1,7 @@
 donats-server
 ---
 
-[Donats](https://github.com/specialgee/donats) server-side API
+[donats](https://github.com/specialgee/donats) server-side API
 
 ### Usage
 
