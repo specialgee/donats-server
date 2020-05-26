@@ -53,6 +53,7 @@ updateCategory = async (req, res) => {
         category.name = body.name;
         category.category = body.category;
         category.cover = body.cover;
+        category.isVisible = body.isVisible;
         category.url = body.url;
         category
             .save()
