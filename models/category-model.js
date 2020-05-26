@@ -7,7 +7,8 @@ const Category = new Schema(
         name: { type: String, required: true },
         category: { type: Array, required: false },
         cover: { type: String, required: false },
-        url: { type: String, required: false },
+        isVisible: { type: Boolean, required: false },
+        url: { type: String, required: false }
     },
     { timestamps: false },
 )
